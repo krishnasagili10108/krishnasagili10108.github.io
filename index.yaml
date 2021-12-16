@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  pages:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2021-12-16T11:13:01.04416565Z"
+    dependencies:
+    - name: pages-api
+      repository: https://krishnasagili10108.github.io/
+      version: 1.x.x
+    - name: mysql
+      repository: https://krishnasagili10108.github.io/
+      version: 1.x.x
+    description: A Helm chart for Pages Application
+    digest: c37f5e491ba07a87151f5b277dd77bdae66506f158794178c69ca2827a1dccbc
+    name: pages
+    type: application
+    urls:
+    - pages-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-12-16T11:13:01.041936285Z"
